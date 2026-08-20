@@ -4,7 +4,7 @@
 
 ---
 
-## ✨ Features
+ ## ✨ Features
 
 - 🌸 **Daily Mood Check-in**: 5-level intuitive mood selector (*Radiant, Good, Okay, Low, Overwhelmed*) with tag factors (*Work, Sleep, Exercise, Family, Nutrition, Self-Care*).
 - 📖 **Private Reflection Journal**: Local journal notes and daily 1-line gratitude prompt saved securely in your browser.
