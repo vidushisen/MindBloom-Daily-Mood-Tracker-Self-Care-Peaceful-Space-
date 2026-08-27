@@ -53,3 +53,4 @@
 - **CSS3** (Custom Properties, Glassmorphism, CSS Grid & Flexbox, OLED Themes)
 - **JavaScript (Vanilla ES6+)** (Web Audio API, HTML5 Canvas API, LocalStorage)
 - Zero external libraries or heavy dependencies.
+                  
